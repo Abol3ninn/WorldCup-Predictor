@@ -1,0 +1,6 @@
+home_team,away_team,winner,prediction,home_probability,draw_probability,away_probability
+Mexico,England,England,Away Win,0.2926287,0.31920162,0.38816965
+Portugal,Spain,Spain,Away Win,0.25318536,0.3381466,0.408668
+United States,Belgium,Belgium,Away Win,0.21487667,0.23128234,0.553841
+Argentina,Egypt,Argentina,Home Win,0.57750785,0.23042259,0.1920695
+Switzerland,Colombia,Switzerland,Home Win,0.7605245,0.16104312,0.07843242

@@ -1,0 +1,5 @@
+home_team,away_team,winner,prediction,home_probability,draw_probability,away_probability
+France,Morocco,France,Home Win,0.5579406,0.17185938,0.27019998
+Spain,Belgium,Belgium,Draw,0.20908809,0.47266665,0.31824523
+Norway,England,England,Away Win,0.42571107,0.14451593,0.42977306
+Argentina,Switzerland,Argentina,Home Win,0.4692118,0.37480593,0.15598223
