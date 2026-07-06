@@ -205,8 +205,6 @@ Ahmed Abol3nin
 
 Computer Science Student
 
-Technische Hochschule Ulm
-
 Interested in Artificial Intelligence, Machine Learning and Data Science.
 
 ---
